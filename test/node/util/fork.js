@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-var child_process = require("child_process");
+var append_child_process = require("child_process");
 
 var outputHandler = function (prefix) {
     var output = "";
